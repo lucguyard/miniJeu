@@ -1,0 +1,11 @@
+miniJeu 
+
+Objectif du jeu : 
+- pouvoir deplacer une plateforme de gauche à droite  
+- faire rebondir une balle sur la page 
+
+
+Etape :
+utiliser le body de la page pour remplir la page
+creer une balle 
+sous js, deplacer la balle de 5px tout les secondes
